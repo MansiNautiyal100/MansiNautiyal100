@@ -1,27 +1,57 @@
-# 📊 Sales Data Analysis Dashboard (Excel)
+# Hi, I'm Mansi Nautiyal 👋  
 
-## 🔍 Project Overview
-This project focuses on analyzing sales data using Microsoft Excel. The goal was to extract meaningful insights and build an interactive dashboard.
+🚀 Aspiring Data Analyst | MBA (Data Science) Student  
+🔬 Biotechnology Postgraduate with a strong foundation in research and analytical thinking  
 
-## 🛠 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts
-- Slicers
+---
 
-## 📊 Key Analysis
-- Sales by Region
-- Sales by Category
-- Monthly Sales Trends
+## 🚀 About Me  
+- Currently pursuing MBA in Data Science  
+- Postgraduate in Biotechnology with hands-on research experience  
+- Skilled in analyzing data, interpreting results, and generating insights  
+- Experience in financial data handling, reporting, and research analysis  
+- Passionate about combining scientific thinking with data analytics  
 
-## 📈 Dashboard Features
-- Interactive filters using slicers
-- Visual representation using charts
-- Clean and structured layout
+---
 
-## 📁 Files Included
-- Excel dashboard file
-- Dataset
+## 🛠 Skills  
 
-## 🚀 Outcome
-This project helped in understanding data cleaning, analysis, and visualization using Excel.
+**Technical Skills:**  
+- Excel (Pivot Tables, VLOOKUP, Data Cleaning)  
+- SQL (Basic Queries, Joins)  
+- Power BI (Dashboard Creation, Data Visualization)  
+
+**Analytical Skills:**  
+- Data Cleaning & Transformation  
+- Data Analysis & Interpretation  
+- Reporting & Dashboarding  
+- Research & Data Documentation  
+
+---
+
+## 🔬 Research Background  
+- M.Sc. Thesis: Studied antifungal properties of *Hyptis Suaveolans*  
+- B.Sc. Thesis: Investigated fungal infection mechanisms in Mucormycosis  
+- Hands-on experience in laboratory research, data observation, and documentation  
+
+---
+
+## 📊 Projects  
+
+### 📌 Sales Data Analysis Dashboard (Excel)  
+- Cleaned and analyzed sales dataset using Excel  
+- Built interactive dashboard using Pivot Tables and slicers  
+- Analyzed sales trends by region, category, and time  
+
+🔗 [View Project](https://github.com/MansiNautiyal100/Sales-Data-Analysis-Excel)
+
+---
+
+## 📫 Connect with Me  
+
+- LinkedIn: https://www.linkedin.com/in/mansi-nautiyal-772629225/  
+- GitHub: https://github.com/MansiNautiyal100  
+
+---
+
+⭐ *Currently building more projects in Excel, SQL, and Power BI while transitioning into Data Analytics*
