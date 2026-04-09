@@ -1,27 +1,27 @@
-# Hi, I'm Mansi Nautiyal 👋 🧬📊
+# 📊 Sales Data Analysis Dashboard (Excel)
 
-I am a *Biotechnology Postgraduate* and current *MBA (Data Science)* student. My goal is to bridge the gap between biological research and data-driven decision-making. 
+## 🔍 Project Overview
+This project focuses on analyzing sales data using Microsoft Excel. The goal was to extract meaningful insights and build an interactive dashboard.
 
-### 🌟 About Me
-- 🎓 **Currently Pursuing:* MBA in Data Science at Amity University Online.
-- 🏆 *Academic Achievement:* M.Sc. Biotechnology Academic Topper (Gold Medalist).
-- 🔬 *Research Focus:* Investigated antifungal properties of Hyptis Suaveolans and mechanisms of Mucormycosis.
-- 🏭 *Industrial Experience:* Quality Control training at Patanjali Ayurveda Ltd.
+## 🛠 Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Charts
+- Slicers
 
-### 🛠️ Technical Toolkit
-- *Data Science:* Statistics, Data Mining, Microsoft Excel (Advanced).
-- *Business:* Financial Operations, Tally ERP, Documentation.
-- *Biotech:* DNA Extraction, Spectrophotometry, Microscopy, Gel Electrophoresis.
+## 📊 Key Analysis
+- Sales by Region
+- Sales by Category
+- Monthly Sales Trends
 
-### 📈 Current Projects
-- 🧪 Analyzing clinical and research data using statistical models.
-- 💻 Enhancing my skills in Python/R for Bioinformatics applications.
-- 📊 Participant in the Marico Women Empowerment Program (Data Analytics).
+## 📈 Dashboard Features
+- Interactive filters using slicers
+- Visual representation using charts
+- Clean and structured layout
 
-### 📫 Let's Connect!
-- *LinkedIn:* [www.linkedin.com/in/mansi-nautiyal-772629225]
-- *Email:* mansinautiyal100@gmail.com
-- *Location:* Uttarakhand, India
+## 📁 Files Included
+- Excel dashboard file
+- Dataset
 
----
-“Turning biological complexity into actionable data insights.
+## 🚀 Outcome
+This project helped in understanding data cleaning, analysis, and visualization using Excel.
