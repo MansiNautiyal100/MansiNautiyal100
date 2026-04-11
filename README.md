@@ -45,6 +45,13 @@
 
 🔗 [View Project](https://github.com/MansiNautiyal100/Sales-Data-Analysis-Excel)
 
+### 📌 Brent Oil Price Trend Analysis Dashboard (Excel)  
+- Built an interactive dashboard to analyze Brent oil price trends using historical data  
+- Applied moving averages and volatility metrics for trend analysis  
+- Created visualizations and KPI cards for insights on price fluctuations  
+- Enabled interactive analysis using Pivot Tables and slicers  
+
+🔗 [View Project](https://github.com/MansiNautiyal100/brent-oil-excel-dashboard)
 ---
 
 ## 📫 Connect with Me  
